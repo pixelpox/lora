@@ -13,7 +13,7 @@ Currently there is no LoraWAN gateway where I live so I am taking on the task of
 
 LoraWAN first needs a gateway that operates on the xxxMHz frequency here in the UK. Second a node is needed to send information to the loraWAN.
 
-## Protect Shopping List
+## Project Shopping List
 
 ### Gateway
   * [ ] - Something

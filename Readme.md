@@ -3,6 +3,8 @@
 This project is to explore what LoraWAN is about and how it can be used in a
 hobby environment.
 
+![LoraWanLogo](images/lorawanLogo.png)
+
 ## Current Issue
 
 Currently there is no LoraWAN gateway where I live so I am taking on the task of building my own.

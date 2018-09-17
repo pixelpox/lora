@@ -3,7 +3,7 @@
 This project is to explore what LoraWAN is about and how it can be used in a
 hobby environment.
 
-<img src="images/lorawanLogo.png" alt="lorawan Logo" width="50%" height='50%'/>
+<img src="images/lorawanLogo.png" alt="lorawan Logo" width="25%" height='25%'/>
 
 ## Current Issue
 

@@ -5,9 +5,10 @@
 
 //simons comment
 //https://github.com/fcgdam/TTGO_LoRa32
+//https://github.com/ThingPulse/esp8266-oled-ssd1306
 
 #include <Arduino.h>
-#include "lmic.h"
+#include <lmic.h>
 #include <hal/hal.h>
 #include <SPI.h>
 #include <SSD1306.h>
